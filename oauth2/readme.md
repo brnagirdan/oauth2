@@ -1,6 +1,6 @@
 ## 模拟使用spring security oauth2来实现server之间的安全认证
 
-启动服务并访问 http://localhost:11110/client/test/{resource_uid}
+启动服务并访问 http://localhost:11110/client/test/{resource_uid}   
 eg: http://localhost:11110/client/test/System Management/Role Management
 
 `本案例使用了egp_sit中的user_tbl,role_tbl,user_role_assign,privilege_tbl,role_privilege_assign,privilege_resource_link
